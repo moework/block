@@ -9,3 +9,6 @@
 Your Access is BLOCKED!!
 
 To resolve this issue, please contact your administrator or fill out the application for whitelisting.
+
+## 홈으로 바로가기
+https://moe.work
